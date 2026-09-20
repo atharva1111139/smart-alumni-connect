@@ -33,7 +33,7 @@ Smart Alumni Connect/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/atharva1111139/smart-alumni-connect>
 ```
 
 Navigate into the project:
